@@ -1,0 +1,11 @@
+Sensor data : 67
+Sensor data : 15
+Sensor data : 99
+Sensor data : 10
+Sensor data : 89
+Sensor data : 92
+Sensor data : 10
+Sensor data : 23
+Sensor data : 32
+Sensor data : 20
+Exit
